@@ -472,6 +472,25 @@ body.offcanvas {
   -o-box-shadow: none !important;
   box-shadow: none !important; }
 
+  #headingTwo.panel-heading a{
+    padding: 20px 25px;
+    display: block;
+    width: 100%;
+    font-weight: 500;
+    font-size: 14px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    font-family: "Quicksand", Arial, sans-serif;
+    background-color: #f9bf3f;
+    color: #fff;
+    position: relative;
+    -webkit-box-shadow: none !important;
+    -moz-box-shadow: none !important;
+    -ms-box-shadow: none !important;
+    -o-box-shadow: none !important;
+    box-shadow: none !important;
+  }
+
 .panel {
   -webkit-box-shadow: none !important;
   -moz-box-shadow: none !important;
@@ -498,6 +517,12 @@ body.offcanvas {
   background: #f2f3f7;
   border: 1px solid #e6e6e6 !important;
   color: #333333; }
+
+#headingTwo.panel-heading a.collapsed {
+  background: #f2f3f7;
+  border: 1px solid #e6e6e6 !important;
+  color: #333333; }
+  
 
 .panel-body {
   padding: 1.5em;
