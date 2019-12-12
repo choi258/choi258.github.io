@@ -586,13 +586,11 @@ body.offcanvas {
   .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon i {
     color: #fff; }
   .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-2 {
-    background: #ec5453; }
-  .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-3 {
     background: #f9bf3f; }
+  .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-3 {
+    background: #2c98f0; }
   .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-4 {
-    background: #a84cb8; }
-  .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-5 {
-    background: #2fa499; }
+    background: #f9bf3f; }
   .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-none {
     background: #fff;
     width: 20px;
